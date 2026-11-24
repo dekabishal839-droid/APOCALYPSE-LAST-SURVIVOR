@@ -1,0 +1,6 @@
+{
+  "name": "Aftermath 2045",
+  "description": "2045 post-apocalyptic open-world survival action RPG with dynamic weather, base building, 30+ story missions, boss battles, and multiplayer co-op.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

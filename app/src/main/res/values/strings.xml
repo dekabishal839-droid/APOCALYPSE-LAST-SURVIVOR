@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aftermath 2045</string>
+    <string name="nav_world">World</string>
+    <string name="nav_story">Story</string>
+    <string name="nav_camp">Camp</string>
+    <string name="nav_armory">Armory</string>
+    <string name="nav_squad">Squad</string>
+    <string name="local_coop_notice">Local Squad Mode active (Cloud sync disabled)</string>
+</resources>
